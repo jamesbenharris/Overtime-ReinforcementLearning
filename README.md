@@ -1,4 +1,6 @@
 # Overtime-ReinforcementLearning
+Written by Ben Harris
+bharris@cityoftulsa.org
 
 1. Create Historical CallBacks using two Data Files included.
 2. Build Predictive model using XGBoost(OvertimeAnalysis.ipynb). Export model to c using https://treelite.readthedocs.io/en/latest/. This is necessary due to the slow predictions of native XGBoost.
@@ -8,3 +10,5 @@
 6. Move Overtime.ipnyb to root folder. 
 7. Run Overtime.ipnyb
 8. Start Tensorboard in the root folder to Watch. 
+
+Please view references within code. 
