@@ -10,6 +10,7 @@ bharris@cityoftulsa.org
 6. Move Overtime.ipnyb to root folder. 
 7. Run Overtime.ipnyb
 8. Start Tensorboard in the root folder to Watch. 
+9. Initial results show at least a $50k improvement over random number generator.
 
 Please view references within code. 
 
