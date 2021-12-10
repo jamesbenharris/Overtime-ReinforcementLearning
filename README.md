@@ -1,4 +1,4 @@
-# Overtime-ReinforcementLearning
+# Overtime-Reinforcement Learning
 Written by Ben Harris
 bharris@cityoftulsa.org
 
