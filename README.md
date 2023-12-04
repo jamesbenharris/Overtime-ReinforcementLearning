@@ -1,6 +1,5 @@
 # Overtime-Reinforcement Learning
-Written by Ben Harris
-bharris@cityoftulsa.org
+Written by [Ben Harris](https://jamesbenjaminharris.com)
 
 1. Create Historical CallBacks using two Data Files included.
 2. Build Predictive model using XGBoost(OvertimeAnalysis.ipynb). Export model to c using https://treelite.readthedocs.io/en/latest/. This is necessary due to the slow predictions of native XGBoost.
